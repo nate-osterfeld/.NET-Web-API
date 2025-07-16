@@ -1,0 +1,6 @@
+@M10_Git_HostAddress = http://localhost:5115
+
+GET {{M10_Git_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
